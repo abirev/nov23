@@ -3,7 +3,7 @@ public class AREV {
 	public void abName() 
 	{
 		
-System.out.println("ABIRamuuuu");
+System.out.println("ABIRose");
 	}
 	private void abAge()
 	{
