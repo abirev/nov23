@@ -4,6 +4,9 @@ public class AREV {
 	{
 		
 System.out.println("ABIRose");
+
+System.out.println("AB");
+
 	}
 	private void abAge()
 	{
